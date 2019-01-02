@@ -1,1 +1,6 @@
-hello, my name Malwa Auliya
+hello world
+
+i wanna tell you, i was learning git for the first time !
+
+
+hope it's gonna be easy for me !
